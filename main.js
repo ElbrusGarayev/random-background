@@ -1,4 +1,4 @@
-var colors = ["red" , "blue" , "yellow"]
+var colors = ["red" , "blue" , "yellow","green","purple","orange","brown"]
 
 
 
